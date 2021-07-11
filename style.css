@@ -1,22 +1,33 @@
-* {box-sizing: border-box;
-  }
+
 
 body, html {
   margin: 0;
   height: 100%;
   width: 100%;
 }
-header {
+
+header{
+  position: relative;
   border: 1px solid red;
 }
-  
+
+logo{
+  position: absolute;
+}
+
+
 menu_item {
   display: inline-block;
   margin-right: 20px;
+  position: absolute;
 }
 
 menu_item:last-child{
   margin-right: 0;
+}
+
+contacts {
+  position: absolute;
 }
 
 ul, li {
