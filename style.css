@@ -1,4 +1,6 @@
 
+* {box-sizing: border-box;
+  }
 
 body, html {
   margin: 0;
@@ -9,17 +11,23 @@ body, html {
 header{
   position: relative;
   border: 1px solid red;
+  height: 100px;
 }
 
 logo{
   position: absolute;
+  left: 0;
+  top: 25px;
 }
 
+menu {position: absolute;
+  left: 200px;
+  top: 25px;
+}
 
 menu_item {
   display: inline-block;
   margin-right: 20px;
-  position: absolute;
 }
 
 menu_item:last-child{
@@ -28,6 +36,8 @@ menu_item:last-child{
 
 contacts {
   position: absolute;
+  right: 0;
+  top: 25px;
 }
 
 ul, li {
