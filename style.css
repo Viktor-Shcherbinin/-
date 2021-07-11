@@ -21,29 +21,29 @@ logo{
 }
 
 menu {position: absolute;
-  left: 200px;
+  left: 190px;
   top: 25px;
 }
 
-menu_item {
+.menu_item {
   display: inline-block;
   margin-right: 20px;
 }
 
-menu_item:last-child{
+.menu_item:last-child{
   margin-right: 0;
 }
 
-contacts {
-  position: absolute;
-  right: 0;
-  top: 25px;
-}
 
 ul, li {
   list-style: none;
   padding: 0;
   margin: 0;
+}
+contacts {
+  position: absolute;
+  right: 0;
+  top: 25px;
 }
 
 a {text-decoration: none;
@@ -69,3 +69,6 @@ h1, h2, h3, h4, h5, h6, p {
   height: 1100px;
   margin: 0 auto;
 }
+
+
+
