@@ -7,6 +7,15 @@ body, html {
   width: 100%;
 }
 
+.menu_item {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.menu_item:last-child{
+  margin-right: 0;
+}
+
 ul, li {
   list-style: none;
   padding: 0;
@@ -36,4 +45,3 @@ h1, h2, h3, h4, h5, h6, p {
   height: 1100px;
   margin: 0 auto;
 }
-
