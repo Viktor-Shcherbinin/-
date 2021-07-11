@@ -16,6 +16,17 @@ ul, li {
 a {text-decoration: none;
 color:black;}
 
+button {
+  padding: 0;
+  background-color: transparent;
+  border: 1px solid transparent;
+  outline: none;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+  margin: 0;
+}
+
 .wripper {
   height: 100%;
   width: 100%;
@@ -25,3 +36,4 @@ color:black;}
   height: 1100px;
   margin: 0 auto;
 }
+
