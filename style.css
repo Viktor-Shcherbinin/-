@@ -11,7 +11,7 @@ body, html {
 header{
   position: relative;
   border: 1px solid red;
-  height: 100px;
+  height: 1000px;
 }
 
 logo{
