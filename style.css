@@ -1,26 +1,28 @@
+* {
+  box-sizing: border-box;
+}
 
-* {box-sizing: border-box;
-  }
-
-body, html {
+body,
+html {
   margin: 0;
   height: 100%;
   width: 100%;
 }
 
-header{
+header {
   position: relative;
   border: 1px solid red;
   height: 100px;
 }
 
-.logo{
+.logo {
   position: absolute;
   left: 0;
   top: 25px;
 }
 
-nav {position: absolute;
+nav {
+  position: absolute;
   left: 190px;
   top: 25px;
 }
@@ -30,24 +32,28 @@ nav {position: absolute;
   margin-right: 20px;
 }
 
-.menu_item:last-child{
+.menu_item:last-child {
   margin-right: 0;
 }
 
 
-ul, li {
+ul,
+li {
   list-style: none;
   padding: 0;
   margin: 0;
 }
+
 .contacts {
   position: absolute;
   right: 0;
   top: 25px;
 }
 
-a {text-decoration: none;
-color:black;}
+a {
+  text-decoration: none;
+  color: black;
+}
 
 button {
   padding: 0;
@@ -56,7 +62,13 @@ button {
   outline: none;
 }
 
-h1, h2, h3, h4, h5, h6, p {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
   margin: 0;
 }
 
@@ -69,6 +81,3 @@ h1, h2, h3, h4, h5, h6, p {
   height: 1100px;
   margin: 0 auto;
 }
-
-
-
