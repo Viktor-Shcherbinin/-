@@ -21,13 +21,13 @@ header {
   top: 25px;
 }
 
-nav    {
+nav {
   position: absolute;
   left: 190px;
   top: 25px;
 }
 
-.menu_item     {
+.menu_item {
   display: inline-block;
   margin-right: 20px;
 }
@@ -49,6 +49,7 @@ li {
   right: 0;
   top: 25px;
 }
+
 .contacts__text {
   display: block;
 }
@@ -59,8 +60,8 @@ a {
 }
 
 button {
-  background-color:#FS170E;
-  border-radius:35px;
+  background-color: #FS170E;
+  border-radius: 35px;
 }
 
 h1,
@@ -72,6 +73,7 @@ h6,
 p {
   margin: 0;
 }
+/*вывв*/
 
 .wripper {
   height: 100%;
@@ -81,4 +83,8 @@ p {
 .container {
   height: 1100px;
   margin: 0 auto;
+}
+
+footer {
+  display: relative;
 }
