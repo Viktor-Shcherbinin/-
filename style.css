@@ -14,13 +14,13 @@ header{
   height: 100px;
 }
 
-logo{
+.logo{
   position: absolute;
   left: 0;
   top: 25px;
 }
 
-menu {position: absolute;
+nav {position: absolute;
   left: 190px;
   top: 25px;
 }
