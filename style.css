@@ -40,7 +40,7 @@ ul, li {
   padding: 0;
   margin: 0;
 }
-contacts {
+.contacts {
   position: absolute;
   right: 0;
   top: 25px;
