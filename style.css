@@ -49,6 +49,9 @@ li {
   right: 0;
   top: 25px;
 }
+.contacts_tel {
+  display: block;
+}
 
 a {
   text-decoration: none;
