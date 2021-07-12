@@ -21,13 +21,13 @@ header {
   top: 25px;
 }
 
-nav {
+nav    {
   position: absolute;
   left: 190px;
   top: 25px;
 }
 
-.menu_item {
+.menu_item     {
   display: inline-block;
   margin-right: 20px;
 }
