@@ -27,12 +27,12 @@ nav {
   top: 25px;
 }
 
-.menu_item {
+.menu__item {
   display: inline-block;
   margin-right: 20px;
 }
 
-.menu_item:last-child {
+.menu__item:last-child {
   margin-right: 0;
 }
 
