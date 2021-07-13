@@ -27,12 +27,12 @@ nav {
   top: 25px;
 }
 
-.menu_item {
+.menu__item {
   display: inline-block;
   margin-right: 20px;
 }
 
-.menu_item:last-child {
+.menu__item:last-child {
   margin-right: 0;
 }
 
@@ -59,9 +59,13 @@ a {
   color: black;
 }
 
-button {
-  background-color: #FS170E;
+.button {
+  background-color: #F5170E; /* нужно поправить цвет*/
   border-radius: 35px;
+  width: 168px;
+  height: 55px;
+  color: #fff;
+  font-weight: 700;
 }
 
 h1,
