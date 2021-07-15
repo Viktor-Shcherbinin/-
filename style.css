@@ -68,6 +68,7 @@ a {
   font-weight: 700;
   font-size: 14px;
   text-transform: uppercase;
+  cursor: pointer;
 }
 button {
   padding: 0;
