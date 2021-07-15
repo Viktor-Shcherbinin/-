@@ -94,7 +94,7 @@ button {
    border: 1px solid;
 }
 
-.li.new__item {
+li.new__item {
   display: inline-block;
   width: 550px;
 }
