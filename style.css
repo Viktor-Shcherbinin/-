@@ -66,6 +66,8 @@ a {
   height: 55px;
   color: #fff;
   font-weight: 700;
+  font-size: 14px;
+  text-transform: uppercase;
 }
 button {
   padding: 0;
