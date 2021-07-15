@@ -67,6 +67,12 @@ a {
   color: #fff;
   font-weight: 700;
 }
+button {
+  padding: 0;
+  background-color: transparent;
+  border: 1px solid transparent;
+  outline: 0;
+}
 
 h1,
 h2,
