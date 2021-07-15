@@ -94,10 +94,15 @@ button {
    border: 1px solid;
 }
 
-li.new__item {
+li.news__item {
   display: inline-block;
   width: 550px;
   margin-right: 20px;
+}
+
+.news__img {
+  max-width: 100%;
+  max-height: 100%;
 }
 
 h1,
