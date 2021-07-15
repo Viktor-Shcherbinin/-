@@ -97,6 +97,7 @@ button {
 li.new__item {
   display: inline-block;
   width: 550px;
+  margin-right: 20px;
 }
 
 h1,
