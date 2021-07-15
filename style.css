@@ -94,6 +94,11 @@ button {
    border: 1px solid;
 }
 
+.li.new__item {
+  display: inline-block;
+  width: 550px;
+}
+
 h1,
 h2,
 h3,
