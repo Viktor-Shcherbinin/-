@@ -82,6 +82,16 @@ button {
    width: 300px;
 }
 
+.tours__item:last-child {
+  margin-right: 0;
+}
+
+ .tours__item {
+   display: inline-block;
+   width: 300px;
+   margin-right: 20px;
+}
+
 h1,
 h2,
 h3,
