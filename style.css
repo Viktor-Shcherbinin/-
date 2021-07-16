@@ -126,6 +126,14 @@ li.paginator__item {
   display: inline-block;
 }
 
+.about__content{
+  display: inline-block;
+}
+
+.about__img{
+  display: inline-block;
+}
+
 h1,
 h2,
 h3,
