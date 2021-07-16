@@ -147,11 +147,12 @@ li.paginator__item {
   margin-top: 50px;
   margin-left: -100px;
   padding: 50px;
-   border: 1px solid;
+  border: 1px solid;
 }
 
 .about__button {
   padding: 0;
+  display: inline-block;
   background-color: #F5170E;
   border-radius: 35px;
   width: 168px;
