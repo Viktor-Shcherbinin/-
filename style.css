@@ -142,7 +142,7 @@ li.paginator__item {
 
 .about__content {
   display: inline-block;
-  background: black;
+  background: #black;
   color: #fff;
   margin-top: 50px;
   margin-left: -100px;
