@@ -114,6 +114,14 @@ li.news__item {
   margin-bottom: 30px;
 }
 
+li.pagination__item {
+  display: inline-block;
+}
+
+pagination__link {
+  display: inline-block;
+}
+
 h1,
 h2,
 h3,
