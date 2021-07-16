@@ -128,10 +128,15 @@ li.paginator__item {
 
 .about__content{
   display: inline-block;
+  background: black;
+  color: #fff;
+  margin-top: 50px;
+  margin-left: -100px;
 }
 
 .about__img{
   display: inline-block;
+  vertical-align: top;
 }
 
 h1,
