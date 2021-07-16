@@ -126,7 +126,7 @@ li.paginator__item {
   display: inline-block;
 }
 
-.about__content{
+.about__content {
   display: inline-block;
   background: black;
   color: #fff;
@@ -135,7 +135,7 @@ li.paginator__item {
   padding: 50px;
 }
 
-.about__img{
+.about__img {
   display: inline-block;
   vertical-align: top;
 }
