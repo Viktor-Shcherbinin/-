@@ -140,6 +140,19 @@ li.paginator__item {
   vertical-align: top;
 }
 
+.about__button {
+  padding: 0;
+  background-color: #F5170E;
+  border-radius: 35px;
+  width: 168px;
+  height: 55px;
+  color:#fff;
+  font-weight: 700;
+  font-size: 14px;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
 h1,
 h2,
 h3,
