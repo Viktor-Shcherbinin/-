@@ -114,11 +114,11 @@ li.news__item {
   margin-bottom: 30px;
 }
 
-li.pagination__item {
+li.paginator__item {
   display: inline-block;
 }
 
-.pagination__link {
+.paginator__link {
   display: inline-block;
 }
 
