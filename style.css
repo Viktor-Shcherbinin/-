@@ -139,6 +139,11 @@ li.paginator__item {
   display: inline-block;
 }
 
+.about__img {
+  display: inline-block;
+  vertical-align: top;
+}
+
 .about__content {
   display: inline-block;
   background: black;
@@ -146,11 +151,6 @@ li.paginator__item {
   margin-top: 50px;
   margin-left: -100px;
   padding: 50px;
-}
-
-.about__img {
-  display: inline-block;
-  vertical-align: top;
 }
 
 .about__button {
