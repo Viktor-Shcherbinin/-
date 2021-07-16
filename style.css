@@ -118,7 +118,7 @@ li.pagination__item {
   display: inline-block;
 }
 
-pagination__link {
+.pagination__link {
   display: inline-block;
 }
 
