@@ -90,11 +90,6 @@ button {
   outline: 0;
 }
 
-.tours__item {
-   display: inline-block;
-   width: 300px;
-}
-
 .tours__item:last-child {
   margin-right: 0;
 }
@@ -103,7 +98,7 @@ button {
    display: inline-block;
    width: 300px;
    margin-right: 20px;
-   padding: 30px 20px;
+   padding: 30px 30px;
    border: 1px solid;
 }
 
