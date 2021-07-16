@@ -140,7 +140,7 @@ li.paginator__item {
   vertical-align: top;
 }
 
-about__content {
+.about__content {
   display: inline-block;
   background: #black;
   color: #fff;
