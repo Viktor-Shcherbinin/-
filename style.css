@@ -151,6 +151,7 @@ li.paginator__item {
   margin-top: 50px;
   margin-left: -100px;
   padding: 50px;
+   border: 1px solid;
 }
 
 .about__button {
@@ -188,4 +189,5 @@ p {
 
 footer {
   position: relative;
+  border: 1px solid red;
 }
