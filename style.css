@@ -14,7 +14,10 @@ html {
   font-size: 16px;
   line-height: 1.42;
 }
-
+.container {
+  height: 1100px;
+  margin: 0 auto;
+}
 header {
   position: relative;
   border: 1px solid red;
@@ -183,11 +186,6 @@ p {
 .wripper {
   height: 100%;
   width: 100%;
-}
-
-.container {
-  height: 1100px;
-  margin: 0 auto;
 }
 
 footer {
