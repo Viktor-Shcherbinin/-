@@ -39,6 +39,7 @@ nav {
 .menu__item {
   display: inline-block;
   margin-right: 20px;
+  vertical-align: middle;
 }
 
 .menu__item:last-child {
