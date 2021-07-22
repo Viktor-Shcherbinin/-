@@ -139,6 +139,7 @@ li.news__item:last-child{
 
 li.paginator__item {
   display: inline-block;
+  text-align: center;
 }
 
 .paginator__link {
