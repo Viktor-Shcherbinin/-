@@ -177,6 +177,7 @@ li.paginator__item {
 }
 .social__item { 
   display: inline-block;
+  top: 25px;
 }
 h1,
 h2,
