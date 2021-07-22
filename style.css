@@ -15,8 +15,8 @@ html {
   line-height: 1.42;
 }
 .container {
-  height: 1100px;
   margin: 0 auto;
+  wildt: 1100px;
 }
 header {
   position: relative;
