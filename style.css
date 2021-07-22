@@ -143,6 +143,7 @@ li.paginator__item {
 
 .paginator__link {
   display: inline-block;
+  text-align: center;
 }
 
 .about__img {
