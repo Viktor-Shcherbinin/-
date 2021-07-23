@@ -136,6 +136,9 @@ li.news__item:last-child{
   color: #fff;
   margin-bottom: 30px;
 }
+.news__title-icon {
+  background-size: cover;
+}
 
 li.paginator__item {
   display: inline-block;
