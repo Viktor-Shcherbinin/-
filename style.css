@@ -21,7 +21,6 @@ html {
 header {
   position: relative;
   height: 100px;
-  text-decoration: underline;
 }
 
 .logo {
@@ -62,6 +61,7 @@ li {
 
 .contacts__text {
   display: block;
+  text-decoration: underline;
 }
 
 .preview__button {
