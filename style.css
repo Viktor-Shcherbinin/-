@@ -58,7 +58,9 @@ li {
   right: 0;
   top: 25px;
 }
-
+.contacts__tel {
+  size: 26px;
+}
 .contacts__text {
   display: block;
   text-decoration: underline;
