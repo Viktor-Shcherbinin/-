@@ -160,7 +160,7 @@ li.paginator__item {
 
 .about__content {
   display: inline-block;
-  background: #black;
+  background-image: url(mountains.png);
   color: #fff;
   margin-top: 50px;
   margin-left: -100px;
