@@ -156,6 +156,8 @@ li.paginator__item {
 .about__img {
   display: inline-block;
   vertical-align: top;
+  height: 100%;
+  width: auto;
 }
 
 .about__content {
