@@ -65,7 +65,9 @@ li {
   display: block;
   text-decoration: underline;
 }
-
+.preview__title {
+  size: 72px;
+}
 .preview__button {
   padding: 0;
   background-color: #F5170E;
@@ -168,7 +170,7 @@ li.paginator__item {
   margin-left: -100px;
   padding: 50px;
   border: 1px solid;
-  height:300px;
+  height:450px;
   width: 700px;
 }
 
