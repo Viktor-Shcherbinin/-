@@ -17,6 +17,9 @@ html {
 .container {
   margin: 0 auto;
   width: 1100px;
+  background: 
+  url(1.png),
+  url(2.png);
 }
 header {
   position: relative;
