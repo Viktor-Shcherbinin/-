@@ -71,12 +71,13 @@ li {
   text-decoration: underline;
 }
 .preview__title {
+  margin-top: 50px;
   size: 72px;
   font-size:70px;
   line-height:100px; 
 }
 .prewiew__text {
-  margin: 10px;
+  margin-top: 50px;
 }
 .tours__option-block {
  display: inline-block;
