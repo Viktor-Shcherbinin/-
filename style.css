@@ -19,7 +19,7 @@ html {
   width: 1100px;
   background-image: 
     url(1.png) no-repeat,
-    url(2.png) no-repeat;
+    url(2.png);
 }
 header {
   position: relative;
