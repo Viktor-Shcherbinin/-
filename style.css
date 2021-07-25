@@ -72,7 +72,7 @@ li {
   size: 72px;
 }
 .tours__option {
- display: block;
+ display: inline-block;
 }
   
 .preview__button {
