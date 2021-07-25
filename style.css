@@ -14,7 +14,7 @@ html {
   font-size: 16px;
   line-height: 1.42;
 }
-.main-page-wrapper {
+.wrapper__main-page-wrapper {
    background-image: 
     url(1.png) center top no-repeat,
     url(2.png) right button no-repeat;
