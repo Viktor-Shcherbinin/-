@@ -14,12 +14,14 @@ html {
   font-size: 16px;
   line-height: 1.42;
 }
+.maim-page-wrapper {
+   background-image: 
+    url(1.png),
+    url(2.png);
+}
 .container {
   margin: 0 auto;
   width: 1100px;
-  background-image: 
-    url(1.png) 50%,
-    url(2.png);
 }
 header {
   position: relative;
