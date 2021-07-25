@@ -72,6 +72,8 @@ li {
 }
 .preview__title {
   size: 72px;
+  font-size:70px;
+  line-height:100px; 
 }
 .tours__option-block {
  display: inline-block;
