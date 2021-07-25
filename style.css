@@ -75,6 +75,9 @@ li {
   font-size:70px;
   line-height:100px; 
 }
+.prewiew__text {
+  margin: 10px;
+}
 .tours__option-block {
  display: inline-block;
 }
