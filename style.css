@@ -13,13 +13,14 @@ html {
   color: #fff;
   font-size: 16px;
   line-height: 1.42;
+  background-image: 
+    url(1.png) 50%  no-repeat fixed,
+    url(2.png) 50%  no-repeat fixed;
+  
 }
 .container {
   margin: 0 auto;
   width: 1100px;
-  background-image: 
-    url(1.png) 50%  no-repeat fixed,
-    url(2.png) 50%  no-repeat fixed;
 }
 header {
   position: relative;
