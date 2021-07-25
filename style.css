@@ -71,6 +71,10 @@ li {
 .preview__title {
   size: 72px;
 }
+.tours__option {
+ display: block;
+}
+  
 .preview__button {
   padding: 0;
   background-color: #F5170E;
