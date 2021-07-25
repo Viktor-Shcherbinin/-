@@ -16,8 +16,8 @@ html {
 }
 .main-page-wrapper {
    background-image: 
-    url(1.png),
-    url(2.png);
+    url(1.png) center top no-repeat,
+    url(2.png) right button no-repeat;
 }
 .container {
   margin: 0 auto;
