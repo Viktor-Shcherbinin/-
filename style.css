@@ -189,6 +189,7 @@ li.paginator__item {
 
 .paginator__link {
   display: inline-block;
+  margin-right: 20px; 
   text-align: center;
 }
 
