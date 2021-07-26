@@ -84,6 +84,7 @@ li {
 }
   
 .preview__button {
+  margin-top:20px;
   margin-bottom: 250px;
   padding: 0;
   background-color: #F5170E;
