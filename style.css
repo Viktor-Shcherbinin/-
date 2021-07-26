@@ -131,6 +131,7 @@ button {
 }
 
  .tours__item {
+   background-color: #fff;
    display: inline-block;
    width: 350px;
    margin-right: 20px;
