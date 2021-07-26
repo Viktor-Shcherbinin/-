@@ -222,6 +222,7 @@ li.paginator__item {
 }
 
 .about__button {
+  margin-top: 20px;
   padding: 0;
   display: inline-block;
   background-color: #F5170E;
