@@ -141,8 +141,7 @@ button {
    overflow:hidden;
 }
 .tours__title-text {
-  color: #000;
-  margin: 20px 0;
+  margin-right: 20px;
 }
 .tours__options-block-text {
   color: #000;
