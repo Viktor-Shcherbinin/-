@@ -132,13 +132,15 @@ button {
 
  .tours__item {
    background-color: #fff;
-   font color: #000;
    display: inline-block;
    width: 350px;
    margin-right: 20px;
    padding: 30px 30px;
    border: 1px solid;
    overflow:hidden;
+}
+.tours__text {
+  color: #000;
 }
 
 li.news__item {
