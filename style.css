@@ -192,7 +192,7 @@ li.paginator__item {
 }
 .paginator__list {
   display: inline-block;
-  margin: 20px 0;
+  margin: 20px 50px;
 }
 .paginator__link {
   display: inline-block;
