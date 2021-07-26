@@ -114,6 +114,11 @@ a {
   text-transform: uppercase;
   cursor: pointer;
 }
+.button--border {
+  background: transparent;
+  color: #F5170E;
+  border-color: #F5170E;
+}
 button {
   padding: 0;
   background-color: transparent;
