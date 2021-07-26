@@ -102,8 +102,8 @@ a {
   text-decoration: none;
   color: inherit;
 }
-.tours__title-text {
-   margin-top: 20px;
+.tours__title {
+   margin: 20px 0;
 }
 .tours__button {
   margin-top: 20px;
