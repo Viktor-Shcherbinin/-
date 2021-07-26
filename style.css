@@ -158,6 +158,9 @@ li.news__item:last-child{
   color: #fff;
   margin-bottom: 30px;
 }
+news__title {
+  margin-top: 20px;
+}
 .news__title-icon {
    background: no-repeat;
 }
