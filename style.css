@@ -147,6 +147,7 @@ button {
 }
 .tours__subtitle {
   color: #000;
+  font-weight: bold;
 }
 li.news__item {
   display: inline-block;
