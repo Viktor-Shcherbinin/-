@@ -142,6 +142,9 @@ button {
 .tours__text {
   color: #000;
 }
+.options-block-text {
+  color: #000;
+}
 
 li.news__item {
   display: inline-block;
