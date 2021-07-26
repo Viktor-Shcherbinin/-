@@ -140,8 +140,9 @@ button {
    border: 1px solid;
    overflow:hidden;
 }
-.tours__title-text {
-  margin-right: 20px;
+.tours__text {
+  margin: 20px 0;
+  color: #000;
 }
 .tours__options-block-text {
   color: #000;
