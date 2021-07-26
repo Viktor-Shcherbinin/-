@@ -185,7 +185,9 @@ li.news__item:last-child{
 .news__title-icon {
    background: no-repeat;
 }
-
+.paginator__display {
+  margin-left: 250px;
+}
 li.paginator__item {
   display: inline-block;
   text-align: center;
