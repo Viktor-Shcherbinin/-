@@ -108,7 +108,8 @@ a {
   color: inherit;
 }
 .tours__title {
-   margin: 20px 0;
+  margin: 20px 0;
+  margin-top: 270px;
 }
 .tours__button {
   margin-top: 20px;
