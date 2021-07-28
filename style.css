@@ -70,6 +70,8 @@ li {
 .contacts__text {
   display: block;
   text-decoration: underline;
+  line-height:20px;
+  
 }
 .preview__title {
   margin-top: 50px;
