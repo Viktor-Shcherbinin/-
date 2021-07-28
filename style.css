@@ -44,7 +44,8 @@ nav {
   display: inline-block;
   margin-right: 20px;
   vertical-align: middle;
-  height: 19,07px;
+  size: 14px;
+  line-height: 19,07px;
 }
 
 .menu__item:last-child {
