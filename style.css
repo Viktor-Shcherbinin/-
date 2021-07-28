@@ -124,6 +124,9 @@ a {
   text-transform: uppercase;
   cursor: pointer;
 }
+.tours__content {
+  margin-left: 20px;
+}
 .button--border {
   background: transparent;
   color: #F5170E;
