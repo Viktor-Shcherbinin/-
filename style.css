@@ -176,6 +176,10 @@ li.news__item:last-child{
 .news__title {
   margin: 20px 0;
 }
+.news__subtitle {
+  font-weight: bold;
+   margin: 10px 0;
+}
 .news__img {
   max-width: 100%;
   max-height: 100%;
