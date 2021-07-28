@@ -239,6 +239,9 @@ li.paginator__item {
 .about__title {
   margin-bottom: 20px;
 }
+.about__text {
+  margin-bottom: 20px;
+}
 .about__button {
   margin-top: 20px;
   padding: 0;
