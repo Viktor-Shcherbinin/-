@@ -144,9 +144,9 @@ button {
    display: inline-block;
    width: 350px;
    margin-right: 20px;
-   
    border: 1px solid transparent;
    overflow:hidden;
+   border-radius: 5px;
 }
 .tours__text {
   margin: 20px 0;
@@ -167,7 +167,6 @@ li.news__item {
   position: relative;
   width: 536px;
   margin-right: 20px;
-  border: 1px solid;
   overflow:hidden;
 }
 
@@ -224,7 +223,6 @@ li.paginator__item {
   margin-top: 50px;
   margin-left: -100px;
   padding: 50px;
-  border: 1px solid;
   height:450px;
   width: 700px;
 }
