@@ -113,7 +113,7 @@ a {
   margin-top: 270px;
 }
 .tours__button {
-  margin-top: 20px;
+  margin: 20px 0px;
   background-color: #F5170E; /* нужно поправить цвет*/
   border-radius: 35px;
   width: 168px;
