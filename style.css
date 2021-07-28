@@ -144,8 +144,8 @@ button {
    display: inline-block;
    width: 350px;
    margin-right: 20px;
-   padding: 30px 30px;
-   border: 1px solid;
+   
+   border: 1px solid transparent;
    overflow:hidden;
 }
 .tours__text {
