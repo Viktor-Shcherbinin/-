@@ -44,7 +44,7 @@ nav {
   display: inline-block;
   margin-right: 20px;
   vertical-align: middle;
-  width: 19,07px;
+  height: 19,07px;
 }
 
 .menu__item:last-child {
@@ -70,7 +70,7 @@ li {
 .contacts__text {
   display: block;
   text-decoration: underline;
-  size::20px;
+  size:20px;
   
 }
 .preview__title {
