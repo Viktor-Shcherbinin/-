@@ -179,6 +179,8 @@ li.news__item:last-child{
 .news__subtitle {
   font-weight: bold;
    margin: 10px 0;
+  size: 16px;
+  line-height: 21px;
 }
 .news__img {
   max-width: 100%;
