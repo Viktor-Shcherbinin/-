@@ -70,7 +70,7 @@ li {
 .contacts__text {
   display: block;
   text-decoration: underline;
-  line-height:20px;
+  size::20px;
   
 }
 .preview__title {
