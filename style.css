@@ -40,12 +40,16 @@ nav {
   left: 190px;
   top: 25px;
 }
-
+.menu__link {
+  margin-right: 20px;
+  line-height: 19,07px;
+  font-size: 14px;
+}
 .menu__item {
   display: inline-block;
-  margin-right: 20px;
+  
   vertical-align: middle;
-  size: 14px;
+  
   line-height: 19,07px;
 }
 
